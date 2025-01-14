@@ -1,0 +1,17 @@
+{
+  "domain": "star_parcs_relais",
+  "name": "Star Parcs Relais",
+  "version": "0.1.0",
+  "codeowners": [
+    "@juli3nk"
+  ],
+  "documentation": "https://github.com/juli3nk/ha_integration-star_parcs_relais",
+  "issue_tracker": "https://github.com/juli3nk/ha_integration-star_parcs_relais/issues",
+  "iot_class": "cloud_polling",
+  "dependencies": [],
+  "requirements": [],
+  "config_flow": true,
+  "homekit": {},
+  "ssdp": [],
+  "zeroconf": []
+}
